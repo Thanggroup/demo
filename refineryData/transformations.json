@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "type": "OCR_CORRECTION",
+    "match": "mẺ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "type": "OCR_CORRECTION",
+    "match": "mẾ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "type": "OCR_CORRECTION",
+    "match": "QĐÐ",
+    "output": "QĐ",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "type": "OCR_CORRECTION",
+    "match": "mỀ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "type": "OCR_CORRECTION",
+    "match": "mổ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "type": "OCR_CORRECTION",
+    "match": "m",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "type": "OCR_CORRECTION",
+    "match": "n",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "type": "OCR_CORRECTION",
+    "match": "mf",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 9,
+    "type": "OCR_CORRECTION",
+    "match": "m”",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 10,
+    "type": "OCR_CORRECTION",
+    "match": "nổ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 11,
+    "type": "OCR_CORRECTION",
+    "match": "mÊ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 12,
+    "type": "OCR_CORRECTION",
+    "match": "mÉ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 13,
+    "type": "OCR_CORRECTION",
+    "match": "mỂ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 14,
+    "type": "OCR_CORRECTION",
+    "match": "mề",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 15,
+    "type": "OCR_CORRECTION",
+    "match": "tấi",
+    "output": "tái",
+    "verified": true
+  },
+  {
+    "id": 16,
+    "type": "OCR_CORRECTION",
+    "match": "n7",
+    "output": "tái",
+    "verified": true
+  },
+  {
+    "id": 17,
+    "type": "OCR_CORRECTION",
+    "match": "nh",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 18,
+    "type": "OCR_CORRECTION",
+    "match": "nở",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 19,
+    "type": "OCR_CORRECTION",
+    "match": "tình",
+    "output": "tỉnh",
+    "verified": true
+  },
+  {
+    "id": 20,
+    "type": "OCR_CORRECTION",
+    "match": "m®",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 21,
+    "type": "OCR_CORRECTION",
+    "match": "mˆ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 22,
+    "type": "OCR_CORRECTION",
+    "match": "tính",
+    "output": "tỉnh",
+    "verified": true
+  },
+  {
+    "id": 23,
+    "type": "OCR_CORRECTION",
+    "match": "mở",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 24,
+    "type": "OCR_CORRECTION",
+    "match": "nÉ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 25,
+    "type": "OCR_CORRECTION",
+    "match": "nỉ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 26,
+    "type": "OCR_CORRECTION",
+    "match": "ní",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 27,
+    "type": "OCR_CORRECTION",
+    "match": "mí",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 28,
+    "type": "OCR_CORRECTION",
+    "match": "mỉ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 29,
+    "type": "OCR_CORRECTION",
+    "match": "mể",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 30,
+    "type": "OCR_CORRECTION",
+    "match": "mŠ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 31,
+    "type": "OCR_CORRECTION",
+    "match": "sốt",
+    "output": "số",
+    "verified": true
+  }
+]
