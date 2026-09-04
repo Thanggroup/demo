@@ -215,5 +215,19 @@
     "match": "sốt",
     "output": "số",
     "verified": true
+  },
+  {
+    "id": 32,
+    "type": "OCR_CORRECTION",
+    "match": "nể",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 33,
+    "type": "OCR_CORRECTION",
+    "match": "m2",
+    "output": "m²",
+    "verified": true
   }
 ]
