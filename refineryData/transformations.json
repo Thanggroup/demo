@@ -229,5 +229,19 @@
     "match": "m2",
     "output": "m²",
     "verified": true
+  },
+  {
+    "id": 34,
+    "type": "OCR_CORRECTION",
+    "match": "nỂ",
+    "output": "m²",
+    "verified": true
+  },
+  {
+    "id": 35,
+    "type": "OCR_CORRECTION",
+    "match": "nÝ",
+    "output": "m²",
+    "verified": true
   }
 ]
