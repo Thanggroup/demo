@@ -243,5 +243,12 @@
     "match": "nÝ",
     "output": "m²",
     "verified": true
+  },
+  {
+    "id": 36,
+    "type": "OCR_CORRECTION",
+    "match": "m?",
+    "output": "m²",
+    "verified": true
   }
 ]
